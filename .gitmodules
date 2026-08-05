@@ -1,0 +1,3 @@
+[submodule "collection-endpoint2"]
+	path = collection-endpoint2
+	url = git@github.com:ravindra-bruno/collection-endpoint2.git
